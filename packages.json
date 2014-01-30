@@ -6,7 +6,7 @@
 			"description": "Plugin for opening file or url in file",
 			"author": "realwronger",
 			"homepage": "https://github.com/realwronger/sublime_anylink",
-			"readme": "https://raw.github.com/wbond/sublime_alignment/master/readme.creole",
+			"readme": "https://raw.github.com/realwronger/sublime_anylink/master/readme.md",
 			"labels": ["link"],
 			"releases": [
 				{
