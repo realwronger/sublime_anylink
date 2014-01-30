@@ -1,0 +1,20 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "Anylink",
+			"description": "Plugin for opening file or url in file",
+			"author": "realwronger",
+			"homepage": "https://github.com/realwronger/sublime_anylink",
+			"readme": "https://raw.github.com/wbond/sublime_alignment/master/readme.creole",
+			"labels": ["link"],
+			"releases": [
+				{
+					"platforms": ["windows"],
+					"sublime_text": "*",
+					"details": "https://github.com/realwronger/sublime_anylink/tags"
+				}
+			]
+		},
+	]
+}

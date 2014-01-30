@@ -1,0 +1,5 @@
+[
+    { "keys": ["alt+g"], "command": "anylink_goto" },
+    { "keys": ["alt+left"], "command": "anylink_back" },
+    { "keys": ["alt+right"], "command": "anylink_forward" }
+]

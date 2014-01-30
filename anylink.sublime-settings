@@ -1,0 +1,4 @@
+{
+	// Prefixed url will be opened in web browser 
+	"url_prefix": ["http", "https"]
+}
