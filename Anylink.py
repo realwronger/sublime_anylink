@@ -3,7 +3,7 @@ import re, os, webbrowser
 
 WINDOWS_PATH_PATTERN = re.compile(r"[a-zA-Z]:\\\S+")
 
-settings = sublime.load_settings('anylink.sublime-settings')
+settings = sublime.load_settings("anylink.sublime-settings")
 
 URL_PREFIX = settings.get("url_prefix")
 
